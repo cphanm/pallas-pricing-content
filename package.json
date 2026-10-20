@@ -1,0 +1,6 @@
+{
+  "name": "pallas-pricing-content",
+  "version": "1.0.0",
+  "description": "Pallas's shared pricing-plan feature-list content (free/core/plus, en+fr). Single source of truth, consumed by both the private pallas app repo (universal/app/(protected)/pricing.tsx) and pallas-marketing-site (src/pages/pricing.tsx) as a git dependency.",
+  "main": "pricing-content.json"
+}
